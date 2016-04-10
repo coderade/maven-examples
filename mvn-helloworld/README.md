@@ -20,4 +20,6 @@ After run the `compile` command, a ***target*** directory will be created.
 
 So can use the command `cd target/classes` and run the command:
 
-`java main.java.HelloWorld` to run the application.
+`java main.java.HelloWorld`
+
+to run the application.
