@@ -23,8 +23,11 @@ Check the file [MAVEN-HELLOWORLD.md](maven-helloworld/README.md) for more inform
 Check the file [MAVEN-WITH-DEPENDENCIES.md](maven-with-dependencies/README.md)
 for more information.
 
-* `maven-with-dep-n-scope`: Example of a Maven application with dependencies and different scopes.
-Check the file [MAVEN-WITH-DEP-N-SCOPE.md](maven-with-dep-n-scope/README.md).
+* `maven-with-dependencies-and-scope`: Example of a Maven application with dependencies and different scopes.
+Check the file [MAVEN-WITH-DEPENDENCIES-AND-SCOPE.md](maven-with-dependencies-and-scope/README.md) for more information.
+
+* `maven-with-repositories`: Example of a Maven application with repositories.
+Check the file [MAVEN-WITH-REPOSITORIES.md](maven-with-dep-n-scope/README.md) for more information.
 
 
 ## Installing the tools

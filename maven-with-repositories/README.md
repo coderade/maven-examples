@@ -1,23 +1,18 @@
-# Maven Hello World Example
+# Maven with Repositories Example
 
-This a simple Hello World application using Maven.
-The `pom.xml` is with all commented lines, so if you are started to learning with
-can use this as a example.
+This example use some repositories and the snapshot and release section.
 
-The `pom.xml` file includes the following details of the project configuration:
+## Repositories
 
-*   `<modelVersion>`. POM model version (always 4.0.0).
+The repositories might be a truly remote repository set up by a third party to provide their artifacts for
+downloading (for example, repo.maven.apache.org and uk.maven.org house Maven's central repository).
+Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company,
+used to share private artifacts between development teams and for releases.
 
-*   `<groupId>`. Group or organization that the project belongs to.
-Often expressed as an inverted domain name.
-
-*   `<artifactId>`. Name to be given to the project’s library artifact
-(for example, the name of its JAR or WAR file).
-
-*   `<version>`. Version of the project that is being built.
-
-*   `<packaging>` - How the project should be packaged.
- Defaults to "jar" for JAR file packaging. Use "war" for WAR file packaging.
+## `<snapshot/>` and `<release/>` sections
+These sections are the policies for each type of artifact, Release or snapshot.
+With these two sets, a POM has the power to alter the policies for each type independent of the other within a single repository.
+For example, one may decide to enable only snapshot downloads, possibly for development purposes.-->
 
 ### Installing Maven
 

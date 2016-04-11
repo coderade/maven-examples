@@ -2,6 +2,8 @@
 
 This example show how to use dependencies inside a Maven POM file.
 
+## Dependencies
+
 Dependencies are what we want to use inside of our application, they are imported by their naming convention.
 This is often considered the most confusing part of Maven. Because we have to know what their artifact ID,
 what their group ID, and what version I want to use is. The nice thing about this
