@@ -12,19 +12,19 @@ compared to Ant tool in English and Portuguese:
 * [Ant VS Maven - Portuguese](http://br.coderade.in/ant-vs-maven)
 
 ## Examples
-* `mvn-vs-ant`: Two examples demonstrating the same application with the Build tool
+* `maven-vs-ant`: Two examples demonstrating the same application with the Build tool
 Maven and the Scripting tool [Ant](http://ant.apache.org/).
-Check the file [MVN-VS-ANT.md](mvn-vs-ant/README.md) for more information.
+Check the file [MAVEN-VS-ANT.md](maven-vs-ant/README.md) for more information.
 
-* `mvn-helloworld`: Example of a Hello World application with Maven.
-Check the file [MVN-HELLOWORLD.md](mvn-helloworld/README.md) for more information.
+* `maven-helloworld`: Example of a Hello World application with Maven.
+Check the file [MAVEN-HELLOWORLD.md](maven-helloworld/README.md) for more information.
 
-* `mvn-with-dependencies`: Example of a Maven application with dependencies.
-Check the file [MVN-WITH-DEPENDENCIES.md](mvn-with-dependencies/README.md)
+* `maven-with-dependencies`: Example of a Maven application with dependencies.
+Check the file [MAVEN-WITH-DEPENDENCIES.md](maven-with-dependencies/README.md)
 for more information.
 
-* `mvn-with-dep-n-scope`: Example of a Maven application with dependencies and different scopes.
-Check the file [MVN-WITH-DEP-N-SCOPE.md](mvn-with-dep-n-scope/README.md).
+* `maven-with-dep-n-scope`: Example of a Maven application with dependencies and different scopes.
+Check the file [MAVEN-WITH-DEP-N-SCOPE.md](maven-with-dep-n-scope/README.md).
 
 
 ## Installing the tools
