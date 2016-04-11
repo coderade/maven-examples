@@ -27,7 +27,7 @@ To install Maven use this link: [Installing Maven](https://maven.apache.org/inst
 
 ## Installing Ant
 
-One of the [examples](mvn-vs-ant/README.md) that compare the tools Maven and Ant is using Maven,
+One of the [examples](mvn-vs-ant/README.md) that compare the tools Maven and Ant is using Ant,
 so you need to install the Ant tool too.
 
 To install Ant use this link: [Installing Apache Ant](http://ant.apache.org/manual/install.html).
