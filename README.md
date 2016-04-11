@@ -27,7 +27,7 @@ for more information.
 Check the file [MAVEN-WITH-DEPENDENCIES-AND-SCOPE.md](maven-with-dependencies-and-scope/README.md) for more information.
 
 * `maven-with-repositories`: Example of a Maven application with repositories.
-Check the file [MAVEN-WITH-REPOSITORIES.md](maven-with-dep-n-scope/README.md) for more information.
+Check the file [MAVEN-WITH-REPOSITORIES.md](maven-with-repositories/README.md) for more information.
 
 
 ## Installing the tools

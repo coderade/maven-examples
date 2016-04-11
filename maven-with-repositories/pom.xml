@@ -24,7 +24,7 @@
         </dependency>
     </dependencies>
 
-    <!--These repositories might be a truly remote repository set up by a third party to provide their artifacts for
+    <!--The repositories section might be a truly remote repository set up by a third party to provide their artifacts for
     downloading (for example, repo.maven.apache.org and uk.maven.org house Maven's central repository).
     Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company,
     used to share private artifacts between development teams and for releases.-->
@@ -36,7 +36,7 @@
              and look at it.-->
             <url>http://repo.springsource.org/libs-snapshot</url>
 
-            <!-- snapshots | releases sections:
+            <!-- snapshots | releases tags:
             These are the policies for each type of artifact, Release or snapshot.
             With these two sets, a POM has the power to alter the policies for each type independent of the other within a single repository.
             For example, one may decide to enable only snapshot downloads, possibly for development purposes.-->
