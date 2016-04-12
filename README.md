@@ -41,7 +41,8 @@ Check the file [MAVEN-JAR-PLUGIN.md](maven-jar-plugin/README.md) for more inform
 * `maven-source-plugin`: Example of a Maven application with the source plugin.
 Check the file [MAVEN-SOURCE-PLUGIN.md](maven-source-plugin/README.md) for more information.
 
-
+* `maven-javadoc-plugin`: Example of a Maven application with the Javadoc plugin.
+Check the file [MAVEN-JAVADOC-PLUGIN.md](maven-javadoc-plugin/README.md) for more information.
 
 
 ## Installing the tools
