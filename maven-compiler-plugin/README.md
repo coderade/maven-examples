@@ -1,4 +1,4 @@
-# Maven Hello World Example
+# Maven with Compiler plugin Example
 
 This example show how to use the compiler plugin inside a Maven POM file.
 

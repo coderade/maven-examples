@@ -38,6 +38,9 @@ Check the file [MAVEN-COMPILER-PLUGIN.md](maven-compiler-plugin/README.md) for m
 * `maven-jar-plugin`: Example of a Maven application with the jar plugin.
 Check the file [MAVEN-JAR-PLUGIN.md](maven-jar-plugin/README.md) for more information.
 
+* `maven-source-plugin`: Example of a Maven application with the source plugin.
+Check the file [MAVEN-SOURCE-PLUGIN.md](maven-source-plugin/README.md) for more information.
+
 
 
 

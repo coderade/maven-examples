@@ -9,7 +9,7 @@ downloading (for example, repo.maven.apache.org and uk.maven.org house Maven's c
 Other "remote" repositories may be internal repositories set up on a file or HTTP server within your company,
 used to share private artifacts between development teams and for releases.
 
-## `<snapshot/>` and `<release/>` sections
+## `<snapshot/>` and `<release/>` tags
 These sections are the policies for each type of artifact, Release or snapshot.
 With these two sets, a POM has the power to alter the policies for each type independent of the other within a single repository.
 For example, one may decide to enable only snapshot downloads, possibly for development purposes.-->
