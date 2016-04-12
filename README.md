@@ -35,6 +35,9 @@ Check the file [MAVEN-REPOSITORIES.md](maven-repositories/README.md) for more in
 * `maven-compiler-plugin`: Example of a Maven application with the compiler plugin.
 Check the file [MAVEN-COMPILER-PLUGIN.md](maven-compiler-plugin/README.md) for more information.
 
+* `maven-jar-plugin`: Example of a Maven application with the jar plugin.
+Check the file [MAVEN-JAR-PLUGIN.md](maven-jar-plugin/README.md) for more information.
+
 
 
 
