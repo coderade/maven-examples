@@ -30,11 +30,3 @@ To run this example you can use the commands:
 making sure that you're really compiling each module from scratch
 
 `mvn compile` - that's will compile the source code of the project.
-
-After run the `compile` command, a ***target*** directory will be created.
-
-So can use the command `cd target/classes` and run the command:
-
-`java main.java.HelloWorld`
-
-to run the application.

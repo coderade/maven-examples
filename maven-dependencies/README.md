@@ -16,6 +16,8 @@ and add a specific dependency. Now this example here,
 I'm going to show you, is to use the commons lang library which is just a library from Apache.
 Nothing real exciting here.
 
+## About the example
+
 But just a simple example to show you how to pull in the commons lang library.
 So their group ID is commons lang. Their artifact ID is also commons lang and the current version
 that we were using for this example is 2.6. So this is what our POM file would now look like with that dependency in it.

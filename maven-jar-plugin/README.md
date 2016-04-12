@@ -6,6 +6,8 @@ This example show how to use the jar plugin inside a Maven POM file.
 
 This plugin provides the capability to build jars.
 
+## About the example
+
 In this example I set the value of the **useDefaultManifestFile**
 to *true* to enable the compile command to create a default [Manifest File](https://docs.oracle.com/javase/tutorial/deployment/jar/manifestindex.html).
 
@@ -15,7 +17,6 @@ For more information about the Compiler plugin check this link: [Apache Maven Ja
 
 To run this example you need to install the Maven. Check the file [INSTALL.md](../INSTALL.md).
 
-
 ### Running
 
 To run this example you can use the commands:
@@ -24,13 +25,4 @@ To run this example you can use the commands:
 making sure that you're really compiling each module from scratch.
 
 `mvn compile` - that's will compile the source code of the project.
-
-After run the `compile` command, a ***target*** directory will be created.
-
-So can use the command `cd target/classes` and run the command:
-
-```
-java main.java.HelloWorld
-```
-
-to run the application.
+This will generate the manifest file in the `target/classes/META-INF` directory.

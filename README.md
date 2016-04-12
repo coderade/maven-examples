@@ -5,7 +5,7 @@ study of the Maven tool.
 
 Check at my [Blog](http://coderade.in) an article that I created showing a
 little of what I learned about the Maven tool and its differences
-compared to Ant tool in English and Portuguese:
+compared to Ant. Post available in English and Portuguese:
 
 * [Ant VS Maven - English](http://coderade.in/ant-vs-maven)
 

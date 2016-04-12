@@ -6,7 +6,11 @@ This example show how to use the compiler plugin inside a Maven POM file.
 
 The Compiler Plugin is used to compile the sources of your project. Since 3.0, the default compiler is javax.tools.JavaCompiler (if you are using java 1.6) and is used to compile Java sources. If you want to force the plugin using javac, you must configure the plugin option forceJavacCompilerUse.
 
-Also note that at present the default source setting is 1.5 and the default target setting is 1.5, independently of the JDK you run Maven with. In this example I change this default setting to 1.8 in the source and target section.
+Also note that at present the default source setting is 1.5 and the default target setting is 1.5, independently of the JDK you run Maven with.
+
+## About the example
+
+So, in this example I change this default setting to 1.8 in the source and target section.
 
 For more information about the Compiler plugin check this link: [Apache Maven Compiler Plugin](https://maven.apache.org/plugins/maven-compiler-plugin/).
 

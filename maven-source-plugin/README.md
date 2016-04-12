@@ -11,7 +11,9 @@ The Source Plugin can often be confusing to people because they think it's for d
 
 It is tied by default to the package phase and frequently overridden to a later phase. If you're running package a lot, you don't want to sit there and wait for it. So a lot of people wait until they tie it to the install phase or even the deploy phase just because it's slowing their build down.
 
-So you can see in this example that I've defined a plugin that I've changed it to use the verify phase, this run right before the install and deploy phase.
+## About the example
+
+In this example I've defined a plugin that I've changed it to use the verify phase, this run right before the install and deploy phase.
 
 For more information about the Compiler plugin check this link: [Apache Maven Source Plugin](https://maven.apache.org/plugins/maven-source-plugin/).
 
