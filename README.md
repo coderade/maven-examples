@@ -1,4 +1,4 @@
-# Studying [Maven](https://maven.apache.org)
+# [Maven](https://maven.apache.org) Examples
 
 This repository was created with purpose to demonstrate examples created in the
 study of the Maven tool.
