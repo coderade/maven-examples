@@ -20,7 +20,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>3.8.2</version>
+            <version>4.13.1</version>
             <!-- This scope indicates that the dependency is not required for normal use of the application,
             and is only available for the test compilation and execution phases. -->
             <scope>test</scope>
