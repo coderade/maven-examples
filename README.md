@@ -2,7 +2,7 @@
 
 ![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
 
-**This project has been developed in 2014 for dictated purposes and is not maintained anymore. Some libraries are being updated using the [Dependabot](https://dependabot.com/) and [Snyk.io](https://snyk.io/) services, but no further tests are being done.**
+**This project has been developed in 2014 with the purpose to demonstrate examples with the Maven tool and is not maintained anymore. Some libraries are being updated using the [Dependabot](https://dependabot.com/) and [Snyk.io](https://snyk.io/) services, but no further tests are being done.**
 
 This repository was created with purpose to demonstrate examples created in thestudy of the Maven tool.
 
@@ -50,6 +50,6 @@ Check the file [MAVEN-JAVADOC-PLUGIN.md](maven-javadoc-plugin/README.md) for mor
 
 ## Installing the tools
 
-To run theses examples you need to have Java, Maven and Ant installed.
+To run these examples you need to have Java, Maven, and Ant installed.
 
 Check the [INSTALL.md](INSTALL.md) file to help install them.
