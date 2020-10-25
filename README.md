@@ -1,15 +1,18 @@
 # [Maven](https://maven.apache.org) Examples
 
-This repository was created with purpose to demonstrate examples created in the
-study of the Maven tool.
+![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)
 
-Check at my [Blog](http://coderade.in) an article that I created showing a
+**This project has been developed in 2014 for dictated purposes and is not maintained anymore. Some libraries are being updated using the [Dependabot](https://dependabot.com/) and [Snyk.io](https://snyk.io/) services, but no further tests are being done.**
+
+This repository was created with purpose to demonstrate examples created in thestudy of the Maven tool.
+
+~Check at my [Blog](http://coderade.in) an article that I created showing a
 little of what I learned about the Maven tool and its differences
-compared to Ant. Post available in English and Portuguese:
+compared to Ant. Post available in English and Portuguese:~
 
-* [Ant VS Maven - English](http://coderade.in/ant-vs-maven)
+~* [Ant VS Maven - English](http://coderade.in/ant-vs-maven)~
 
-* [Ant VS Maven - Portuguese](http://br.coderade.in/ant-vs-maven)
+~* [Ant VS Maven - Portuguese](http://br.coderade.in/ant-vs-maven)~
 
 ## Examples
 * `maven-vs-ant`: Two examples demonstrating the same application with the Build tool
