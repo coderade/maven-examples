@@ -6,14 +6,6 @@
 
 This repository was created with purpose to demonstrate examples created in thestudy of the Maven tool.
 
-~Check at my [Blog](http://coderade.in) an article that I created showing a
-little of what I learned about the Maven tool and its differences
-compared to Ant. Post available in English and Portuguese:~
-
-~* [Ant VS Maven - English](http://coderade.in/ant-vs-maven)~
-
-~* [Ant VS Maven - Portuguese](http://br.coderade.in/ant-vs-maven)~
-
 ## Examples
 * `maven-vs-ant`: Two examples demonstrating the same application with the Build tool
 Maven and the Scripting tool [Ant](http://ant.apache.org/).
